@@ -8,7 +8,6 @@ import SideMenu from './sideMenu';
 import UserProfile65994Navigator from '../features/UserProfile65994/navigator';
 import Tutorial65993Navigator from '../features/Tutorial65993/navigator';
 import NotificationList65965Navigator from '../features/NotificationList65965/navigator';
-import Settings65964Navigator from '../features/Settings65964/navigator';
 import Settings65956Navigator from '../features/Settings65956/navigator';
 import MessengerNavigator from '../features/Messenger/navigator';
 import TutorialNavigator from '../features/Tutorial/navigator';
@@ -29,7 +28,6 @@ const AppNavigator = {
 UserProfile65994: { screen: UserProfile65994Navigator },
 Tutorial65993: { screen: Tutorial65993Navigator },
 NotificationList65965: { screen: NotificationList65965Navigator },
-Settings65964: { screen: Settings65964Navigator },
 Settings65956: { screen: Settings65956Navigator },
 Messenger: { screen: MessengerNavigator },
 Tutorial: { screen: TutorialNavigator },
